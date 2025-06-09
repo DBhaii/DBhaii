@@ -74,14 +74,6 @@ I'm passionate about collaborating on exciting projects in **Machine Learning** 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 
 
-### 🚀 Timeline
-
-- 🔭 Jan 2025: Started working on SocialQuery
-- 👥 Feb 2025: Collaborated on website with Nirvana Sangh Foundation
-- 📚 Apr 2025: Learned PostgreSQL advanced queries
-- 💡 May 2025: Began exploring Blockchain
-
-
 ## 🤝 Let’s Connect & Collaborate!
 
 I love teaming up with others on innovative and impactful projects. If you have an idea, want to discuss ML/web dev, or just want to say hi, feel free to reach out!
