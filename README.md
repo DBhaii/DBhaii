@@ -50,6 +50,7 @@ I'm passionate about collaborating on exciting projects in **Machine Learning** 
 ![C/C++](https://img.shields.io/badge/C/C++-blue?logo=c%2b%2b&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-lightblue?logo=mysql&logoColor=white)
 
 
@@ -81,7 +82,24 @@ I love teaming up with others on innovative and impactful projects. If you have 
 
 ## 🌐 Social Links & Certificates
 
-(Coming soon—stay tuned!)
+## 🌐 Social Links & Certificates
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanya-shah-4bab52266)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dhanya_shah_2005/)
+
+
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBhaii&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DBhaii&theme=tokyonight)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DBhaii&theme=github-compact)
+
+
+
+
 
 
 
