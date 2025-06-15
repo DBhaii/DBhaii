@@ -82,8 +82,6 @@ I love teaming up with others on innovative and impactful projects. If you have 
 
 ## 🌐 Social Links & Certificates
 
-## 🌐 Social Links & Certificates
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanya-shah-4bab52266)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dhanya_shah_2005/)
 
